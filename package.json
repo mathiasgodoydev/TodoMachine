@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://mathiasgodoydev.github.io/TODOlist",
+  "homepage": "https://mathiasgodoydev.github.io/TodoMachine",
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
