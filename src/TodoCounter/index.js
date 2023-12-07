@@ -11,13 +11,13 @@ function TodoCounter() {
     if (completedTodos != totalTodos) {
       return ( 
         <h1 className='TodoCounter'>
-          Has completado <span>{completedTodos}</span> de <span>{totalTodos}</span> TODOs
+          Has completado <span>{completedTodos}</span> de <span>{totalTodos}</span> Deseos
         </h1>
       );
     } else{
       return ( 
         <h1 className='TodoCounter'>
-            La Lista de TODOs esta vacía!
+            La Lista de Deseos esta vacía!
         </h1>
       );
     } 

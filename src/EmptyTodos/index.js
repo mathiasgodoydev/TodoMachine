@@ -4,7 +4,7 @@ import React from 'react';
 function EmptyTodos() {
  
     return (
-      <p>Ingresa tu primer TODO!</p>
+      <p>Ingresa tu primer Deseo!</p>
     );
 }
 

@@ -19,7 +19,7 @@ label{
 
 textarea{
     background-color: #F9FBFC;
-    border: 2px solid #202329;
+    border: 2px solid #5D9C59;
     border-radius: 2px;
     box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
     color: #1E1E1F;
@@ -37,7 +37,7 @@ textarea::placeholder{
 }
 
 textarea:focus{
-    outline-color: #61DAFA;
+    outline-color: #DF2E38;
 }
 
 .TodoForm-buttonContainer{
@@ -62,8 +62,9 @@ textarea:focus{
 }
 
 .TodoForm-button--add{
-    background-color: #61DAFA;
+    background-color: #DF2E38;
     box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+    color: #C7E8CA;
 }
 
 .TodoForm-button--cancel{
